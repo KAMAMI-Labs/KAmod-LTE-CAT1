@@ -1,0 +1,2 @@
+# KAmod-LTE-CAT1
+SimCom A7670/A7672 RPi Hat
